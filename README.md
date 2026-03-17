@@ -6,7 +6,7 @@
 0. herança 
 3. polimorfismo
  
-[Acesse o meu GitHub](https://github.com/Lourivaldo-WD)
+[Acesse o meu GitHub](https://github.com/Lourivaldo-WD) :point_left::handshake:	
 ***
 
 <img width="600" height="293" src="https://github.com/user-attachments/assets/ce1e9440-f59d-4d18-ad5b-494b08a48df7" />
