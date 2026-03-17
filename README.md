@@ -4,5 +4,5 @@
 1.Abstração
 0.Encapsulamentor 
 0.herança 
-3.polimorfismo.
+3.polimorfismo
 ***
