@@ -14,12 +14,5 @@ public class AssistirVideos {
         vis.avaliar(90.5f);
         System.out.println(vis.toString());
 
-
-
-        /*System.out.println(v[0].toString());
-        System.out.println(e[0].toString());
-        System.out.println(v[1].toString());
-        System.out.println(e[1].toString());*/
-
     }
 }
